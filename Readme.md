@@ -28,7 +28,7 @@ This example demonstrates how to customize the grid's footer menu and calculate 
 
 * [WinForms Grid: Introduction to Summaries](https://www.youtube.com/watch?v=3sc7ENaACVw&list=PL8h4jt35t1whbt_qx9UClD7FF4LiT6P70)
 <!-- feedback -->
-## Does this example address your development requirements/objectives?
+## Does This Example Address Your Development Requirements/Objectives?
 
 [<img src="https://www.devexpress.com/support/examples/i/yes-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-customize-footer-menu-calculate-custom-totals&~~~was_helpful=yes) [<img src="https://www.devexpress.com/support/examples/i/no-button.svg"/>](https://www.devexpress.com/support/examples/survey.xml?utm_source=github&utm_campaign=winforms-grid-customize-footer-menu-calculate-custom-totals&~~~was_helpful=no)
 
